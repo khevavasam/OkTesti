@@ -1,0 +1,2 @@
+# OkTesti
+Ohjelmistokehittäjä harjoitus repository
